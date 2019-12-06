@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taha/Desktop/P2/flight_reservation/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+pthread.h
+-
+unistd.h
+-
+cstdlib
+-
+stdexcept
+-
+string
+-
+vector
+-
+random
+-
+ctime
+-
+set
+-
+chrono
+-
+thread
+-
+algorithm
+-
+
